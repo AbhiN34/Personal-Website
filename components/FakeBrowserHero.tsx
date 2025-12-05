@@ -217,7 +217,7 @@ export default function FakeBrowserHero() {
           <div className="relative bg-white border-2 border-accent-primary rounded-full px-6 py-3 shadow-lg">
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-accent-primary rounded-full animate-pulse"></div>
-              <span className="font-mono text-sm text-text-dark font-semibold">MODEL PORTFOLIO</span>
+              <span className="font-mono text-sm text-text-dark font-semibold">MODELING PORTFOLIO</span>
               <svg className="w-4 h-4 text-accent-primary group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
