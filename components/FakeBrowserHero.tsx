@@ -98,7 +98,7 @@ export default function FakeBrowserHero() {
               <div className="w-3 h-3 rounded-full bg-green-400/60"></div>
             </div>
             <div className="flex-1 mx-4 px-4 py-1.5 bg-white rounded text-xs text-text-light font-mono border border-[#E5E5E0]">
-              <span className="text-accent-primary">abhinandiraju.com</span>
+              <span className="text-accent-primary">abhinandiraju.vercel.app</span>
             </div>
           </div>
 
