@@ -8,7 +8,7 @@ export default function ModelingProfile() {
       initial={{ opacity: 0, x: 50 }}
       animate={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.6 }}
-      className="min-h-screen flex items-center justify-center px-4 pt-24"
+      className="min-h-[calc(100vh-5rem)] flex items-center justify-center px-4"
     >
       <div className="max-w-4xl w-full">
         <div className="bg-white border border-[#E5E5E0] rounded-lg p-8 md:p-12 shadow-sm">
